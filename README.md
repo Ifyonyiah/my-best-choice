@@ -1,7 +1,7 @@
 # Built With:
 
-React Js
-CSS
+- React Js
+- CSS
 
 
 ## Description:
